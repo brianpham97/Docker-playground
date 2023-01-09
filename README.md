@@ -1,6 +1,6 @@
 # Docker-playground
 
-Practicing docker with a Postgres data Base
+Practicing docker with a Postgres Database
 
 ## Using Docker Compose
 
